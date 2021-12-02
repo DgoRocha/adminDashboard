@@ -4,3 +4,6 @@ This project had the specific purpose of obtaining knowledge in responsive web-d
 Developed by: Diego Rocha
 
 Tutorial by: Online Tutorials
+
+
+Link to web page: https://dgorocha.github.io/adminDashboard/
